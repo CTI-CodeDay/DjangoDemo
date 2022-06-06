@@ -1,0 +1,211 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"F",
+				"Fahrenheit"
+			],
+			[
+				"S",
+				"Scanner"
+			],
+			[
+				"var",
+				"varSwap"
+			],
+			[
+				"circ",
+				"circle"
+			],
+			[
+				"cir",
+				"circum"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"En",
+				"Engineer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nikolai/Dev/env",
+		"/Users/nikolai/Dev/env/src"
+	],
+	"file_history":
+	[
+		"/Users/nikolai/NetBeansProjects/VideoCourse/nbproject/genfiles.properties",
+		"/Users/nikolai/NetBeansProjects/VideoCourse/nbproject/project.properties",
+		"/Users/nikolai/Desktop/CCSF/CS 111B/CCSF CS111B/src/Lesson_29/TicTacToe.java",
+		"/var/folders/hx/gklqhg697cv3gfrlg4z9tw380000gn/T/kite_tutorial.py",
+		"/Users/nikolai/Desktop/CCSF/CS 111B/Lesson2/Lesson2_3.java",
+		"/Users/nikolai/Desktop/CCSF/CS 111B/Lesson3/Temp.java",
+		"/Users/nikolai/Desktop/CCSF/CS 111B/Lesson3/Swap.java",
+		"/Users/nikolai/Desktop/CCSF/CS 111B/Lesson3/Circle.java",
+		"/Users/nikolai/Desktop/CCSF/CS 111B/Lesson3/Lesson3.java",
+		"/Users/nikolai/Desktop/CCSF/CS 111B/Lesson2/Lesson2_2.java",
+		"/Users/nikolai/Desktop/CCSF/CS 111B/Lesson2/Lesson2.java",
+		"/Users/nikolai/Desktop/CCSF/CS 111B/Lesson1/Me.java"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
