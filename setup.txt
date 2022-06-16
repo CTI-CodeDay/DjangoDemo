@@ -1,0 +1,5 @@
+Resources I used to set everything up prior because the original set up tutorial was locked behind a paywall:
+https://appdividend.com/2022/06/15/how-to-install-django-in-mac/
+https://stackoverflow.com/questions/46391721/pipenv-command-not-found
+https://stackoverflow.com/questions/37137664/issue-with-activating-virtualenv
+https://medium.com/analytics-vidhya/python-virtual-environment-using-pipenv-22010a8bb1c2
