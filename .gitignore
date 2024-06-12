@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+src/pages/__pycache__/
+src/products/__pycache__/
+src/products/migrations/__pycache__/
+src/trydjango/__pycache__
+bin/
+lib/
