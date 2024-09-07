@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+*
+!.gitignore
+!README.md
+!Dev2/trydjango3/src2/*
