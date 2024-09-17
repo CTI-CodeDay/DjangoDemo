@@ -1,1 +1,1 @@
-# DjangoDemo
+# Project name = django_demo
