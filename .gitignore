@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+.env
+*.env
+
+venv/
+lib/
+
+db.sqlite3
+
+*.log
+
+*.cfg
+try-django.sublime-workspace
+Scripts/
+Include/
